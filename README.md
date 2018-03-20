@@ -1,2 +1,2 @@
 # derivativeCalc
-small console app in c++, thar calculates derivative of given function
+small console app in c++, that calculates derivative of given function
